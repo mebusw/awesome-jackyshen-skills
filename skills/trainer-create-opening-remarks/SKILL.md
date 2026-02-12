@@ -1,5 +1,5 @@
 ---
-name: trainer-create-opening-remarks
+name: jackyshen-create-opening-remarks
 description: Generate engaging opening speeches, icebreakers, and introductions for workshops, training sessions, or presentations. Use when user asks for "opening remarks", "training opening", "icebreaker speech".
 version: 0.1.0
 github: mebusw

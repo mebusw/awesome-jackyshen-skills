@@ -1,5 +1,5 @@
 ---
-name: trainer-design-workshop-outline
+name: jackyshen-design-workshop-outline
 description: Use when user asks to "generate workshop outline", "create training agenda", "design course structure", "build workshop schedule", or requests help planning training sessions. Applies MECE structure, TfBR design (4Cs), and VAK-inclusive learning.
 version: 0.1.0
 github: mebusw
@@ -199,7 +199,7 @@ Before finalizing:
 
 ## Integration
 
-Reference **trainer-methodologies** skill for:
+Reference `jackyshen-list-methods` skill for:
 - MECE structuring principles
 - TfBR 4C design process
 - ORID debrief templates

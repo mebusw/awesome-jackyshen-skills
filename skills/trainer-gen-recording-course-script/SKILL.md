@@ -1,5 +1,5 @@
 ---
-name: trainer-gen-recording-course-script
+name: jackyshen-gen-recording-course-script
 description: Generate comprehensive video course scripts with structured curriculum, engaging lesson content, and production guidance. Use for "recording class script", "online course content", "video lessons design", "e-learning content".
 version: 0.1.0
 github: mebusw
@@ -101,7 +101,7 @@ OR "Did you know that [stat]?" OR "Have you ever [question]?"
 
 ## Integration
 
-Reference `trainer-methodologies` skill for:
+Reference `jackyshen-list-methods` skill for:
 - MECE curriculum structure
 - Pyramid Principle for organization
 - VAK learning styles in visual/auditory design

@@ -47,8 +47,8 @@
 
 ```
 # 安装指定插件
-/plugin install /trainer-design-workshop-outlineawesome-jackyshen-skills
-/plugin install /trainer-list-methodsawesome-jackyshen-skills
+/plugin install /jackyshen-design-workshop-outlineawesome-jackyshen-skills
+/plugin install /jackyshen-list-methodsawesome-jackyshen-skills
 ```
 
 #### 方式三：告诉 Agent
@@ -133,11 +133,11 @@
 ## 插件结构
 
 ```
-awesome-trainer-skills/
+awesome-jackyshen-skills/
 ├── .claude-plugin/
 │   └── plugin.json          # 插件清单
 ├── skills/                  # 自动激活的技能
-│   ├── trainer-list-methods/
+│   ├── jackyshen-list-methods/
 │   ├── ...
 ├── examples/                # 示例输出
 └── README.md

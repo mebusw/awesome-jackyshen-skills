@@ -1,5 +1,5 @@
 ---
-name: trainer-design-quiz
+name: jackyshen-design-quiz
 description: Generate quiz questions, assessments, and knowledge checks for training programs. Use when user asks to "create quiz questions", "generate assessment", "make test paper", or similar requests for training evaluations after class.
 version: 0.1.0
 github: mebusw

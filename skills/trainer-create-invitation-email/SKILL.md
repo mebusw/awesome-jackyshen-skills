@@ -1,5 +1,5 @@
 ---
-name: trainer-create-invitation-email
+name: jackyshen-create-invitation-email
 description: Generate compelling invitation emails for training programs, workshops, or events. Use when user asks to "write class invitation email", "create training invitation", "generate mass email for training", or mentions "course promotion email".
 version: 0.1.0
 github: mebusw

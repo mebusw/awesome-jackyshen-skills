@@ -37,15 +37,15 @@ Run the following command in Claude Code:
 #### Option 1: Via Browse UI
 
 Select Browse and install plugins
-Select awesome-trainer-plugin
+Select awesome-jackyshen-skills
 Select the plugin(s) you want to install
 Select Install now
 
 #### Option 2: Direct Install
 ```
 # Install specific plugin
-/plugin install /trainer-design-workshop-outline@awesome-jackyshen-skills
-/plugin install /trainer-list-methods@awesome-jackyshen-skills
+/plugin install /jackyshen-design-workshop-outline@awesome-jackyshen-skills
+/plugin install /jackyshen-list-methods@awesome-jackyshen-skills
 ```
 
 #### Option 3: Ask the Agent
@@ -95,11 +95,11 @@ This plugin incorporates proven frameworks:
 ## Plugin Structure
 
 ```
-awesome-trainer-skills/
+awesome-jackyshen-skills/
 ├── .claude-plugin/
 │   └── plugin.json          # Plugin manifest
 ├── skills/                  # Auto-activating skills
-│   ├── trainer-list-methods/
+│   ├── jackyshen-list-methods/
 │   ├── ...
 ├── examples/                # Example outputs
 └── README.md

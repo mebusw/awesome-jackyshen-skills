@@ -1,5 +1,5 @@
 ---
-name: trainer-consult-problem
+name: jackyshen-consult-problem
 description: Generate consultancy problem-solving solutions using McKinsey methods (SCQA, MECE, Pyramid Principle).
 version: 0.1.0
 github: mebusw

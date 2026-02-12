@@ -1,6 +1,6 @@
 ---
-name: trainer-list-methods
-description: This skill should be used when the user asks about "McKinsey frameworks", "MECE principle", "PREP structure", "SCQA framing", "Training from Back of Room", "TfBR", "ORID facilitation", "NLP patterns", "training methodologies", "Huawei BEM/BLM/DSTE system", "facilitation techniques", "liberating structures", "Scrum/Agile", "OKR", or requests guidance on structured problem solving, participant-centered learning, or communication patterns. This skill provides foundational methodologies referenced by other trainer skills.
+name: jackyshen-list-methods
+description: This skill should be used when the user asks about "McKinsey frameworks", "MECE principle", "PREP structure", "SCQA framing", "Training from Back of Room", "TfBR", "ORID facilitation", "NLP patterns", "training methodologies", "Huawei BEM/BLM/DSTE system", "facilitation techniques", "liberating structures", "Scrum/Agile", "OKR", or requests guidance on structured problem solving, participant-centered learning, or communication patterns. This skill provides foundational methodologies referenced by other skills.
 version: 0.1.0
 github: mebusw
 social: xhs@敏捷的申导, wechat@申导-敏捷教练
@@ -9,7 +9,7 @@ email: mebusw@gmail.com
 
 # Trainer Methodologies
 
-This skill provides foundational frameworks and methodologies for consultants, trainers, coaches, and facilitators. These methodologies serve as the underlying structure for content generation and training design across all trainer skills.
+This skill provides foundational frameworks and methodologies for consultants, trainers, coaches, and facilitators. These methodologies serve as the underlying structure for content generation and training design across all skills.
 
 ## Purpose
 
@@ -183,13 +183,13 @@ This refers to:
 
 ## Integration with Other Skills
 
-- **trainer-workshop-outline:** Uses MECE for structure, TfBR for design
-- **trainer-wechat-article:** Applies Pyramid Principle, NLP patterns
-- **trainer-video-script-short:** Uses NLP hooks, Pyramid structure
-- **trainer-quiz-generator:** Aligns with TfBR outcomes, MECE coverage
-- **trainer-course-script-recorded:** Integrates all methodologies
-- **trainer-opening-remarks:** Uses NLP rapport, ORID engagement
-- **trainer-invitation-email:** Applies Pyramid Principle, NLP framing
+- **jackyshen-design-workshop-outline:** Uses MECE for structure, TfBR for design
+- **jackyshen-write-wechat-article:** Applies Pyramid Principle, NLP patterns
+- **jackyshen-gen-short-video-script:** Uses NLP hooks, Pyramid structure
+- **jackyshen-design-quiz:** Aligns with TfBR outcomes, MECE coverage
+- **jackyshen-gen-recording-course-script:** Integrates all methodologies
+- **jackyshen-create-opening-remarks:** Uses NLP rapport, ORID engagement
+- **jackyshen-create-invitation-email:** Applies Pyramid Principle, NLP framing
 
 ## Quick Reference Table
 

@@ -1,5 +1,5 @@
 ---
-name: trainer-write-wechat-article
+name: jackyshen-write-wechat-article
 description: Use when user asks to "write WeChat article", "create 公众号文章", "write media content", or needs engaging articles for WeChat Official Accounts. Applies Pyramid Principle, engaging hooks, and reader-focused writing.
 version: 0.1.0
 github: mebusw
@@ -190,7 +190,7 @@ Closing (10-15%)
 
 ## Integration
 
-Reference **trainer-methodologies** skill for:
+Reference `jackyshen-list-methods** skill for:
 - Pyramid Principle structure
 - NLP language patterns
 - ORID reflective questions
