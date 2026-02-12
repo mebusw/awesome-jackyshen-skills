@@ -73,15 +73,15 @@ Skills activate automatically based on your questions. Examples:
 
 For explicit invocation, use slash commands:
 
-1. `/trainer-design-workshop-outline` - Design workshop outlines
-2. `/trainer-write-wechat-article` - Write WeChat articles
-3. `/trainer-gen-short-video-script` - Generate short video scripts
-4. `/trainer-design-quiz` - Design quiz questions
-5. `/trainer-gen-recording-course-script` - Generate recording course scripts
-6. `/trainer-create-opening-remarks` - Create opening remarks
-7. `/trainer-create-invitation-email` - Create invitation emails for HR
-8. `/trainer-consult-problem` - Consult problem-solving solutions
-9. `/trainer-list-methods` - List all methodologies referred
+1. `/jackyshen-design-workshop-outline` - Design workshop outlines
+2. `/jackyshen-write-wechat-article` - Write WeChat articles
+3. `/jackyshen-gen-short-video-script` - Generate short video scripts
+4. `/jackyshen-design-quiz` - Design quiz questions
+5. `/jackyshen-gen-recording-course-script` - Generate recording course scripts
+6. `/jackyshen-create-opening-remarks` - Create opening remarks
+7. `/jackyshen-create-invitation-email` - Create invitation emails for HR
+8. `/jackyshen-consult-problem` - Consult problem-solving solutions
+9. `/jackyshen-list-methods` - List all methodologies referred
 
 ## Methodologies
 

@@ -111,15 +111,15 @@
 
 如需显式调用，请使用斜杠命令：
 
-1. `/trainer-design-workshop-outline` - 生成课程工作坊大纲
-2. `/trainer-write-wechat-article` - 撰写微信公众号文章
-3. `/trainer-gen-short-video-script` - 生成短视频口播脚本
-4. `/trainer-design-quiz` - 创建测验题目
-5. `/trainer-gen-recording-course-script` - 生成录播课程脚本
-6. `/trainer-create-opening-remarks` - 生成开场白
-7. `/trainer-create-invitation-email` - 为HR创建课程邀请通知邮件
-8. `/trainer-consult-problem` - 生成顾问式问题解决方案
-9. `/trainer-list-methods` - 显示所有方法论
+1. `/jackyshen-design-workshop-outline` - 生成课程工作坊大纲
+2. `/jackyshen-write-wechat-article` - 撰写微信公众号文章
+3. `/jackyshen-gen-short-video-script` - 生成短视频口播脚本
+4. `/jackyshen-design-quiz` - 创建测验题目
+5. `/jackyshen-gen-recording-course-script` - 生成录播课程脚本
+6. `/jackyshen-create-opening-remarks` - 生成开场白
+7. `/jackyshen-create-invitation-email` - 为HR创建课程邀请通知邮件
+8. `/jackyshen-consult-problem` - 生成顾问式问题解决方案
+9. `/jackyshen-list-methods` - 显示所有方法论
 
 ## 方法论
 

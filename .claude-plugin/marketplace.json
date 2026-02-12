@@ -13,7 +13,18 @@
       "name": "trainer-skills",
       "description": "Awesome professional skills for Consultants, Trainers, Coaches, and Facilitators, enhanced with McKinsey, Training from the Back of the Room, ORID, and NLP methodologies.",
       "source": "./",
-      "strict": false
+      "strict": false,
+      "skills": [
+        "./skills/jackyshen-design-workshop-outline",
+        "./skills/jackyshen-write-wechat-article",
+        "./skills/jackyshen-gen-short-video-script",
+        "./skills/jackyshen-design-quiz",
+        "./skills/jackyshen-gen-recording-course-script",
+        "./skills/jackyshen-create-opening-remarks",
+        "./skills/jackyshen-create-invitation-email",
+        "./skills/jackyshen-consult-problem",
+        "./skills/jackyshen-list-methods"
+      ]      
     }
   ]
 }
