@@ -1,0 +1,19 @@
+{
+  "name": "awesome-jackyshen-skills",
+  "metadata": {
+    "description": "Awesome marketplace of plugins from an world-famous agile coach.",
+    "version": "0.1.0"
+  },
+  "owner": {
+    "name": "Jacky Shen",
+    "email": "mebusw@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "trainer-skills",
+      "description": "Awesome professional skills for Consultants, Trainers, Coaches, and Facilitators, enhanced with McKinsey, Training from the Back of the Room, ORID, and NLP methodologies.",
+      "source": "./",
+      "strict": false
+    }
+  ]
+}
