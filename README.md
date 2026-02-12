@@ -26,12 +26,12 @@ Ability to run `npx bun` commands
 
 ### Quick Install (Recommended)
 
-`npx skills add mebusw/mebusw-marketplace`
+`npx skills add mebusw/awesome-jackyshen-skills`
 
 ### Register as Plugin Marketplace
 Run the following command in Claude Code:
 
-`/plugin marketplace add mebusw/mebusw-marketplace`
+`/plugin marketplace add mebusw/awesome-jackyshen-skills`
 
 ### Install Skills
 #### Option 1: Via Browse UI
@@ -44,14 +44,14 @@ Select Install now
 #### Option 2: Direct Install
 ```
 # Install specific plugin
-/plugin install /trainer-design-workshop-outline@awesome-trainer-plugin
-/plugin install /trainer-list-methods@awesome-trainer-plugin
+/plugin install /trainer-design-workshop-outline@awesome-jackyshen-skills
+/plugin install /trainer-list-methods@awesome-jackyshen-skills
 ```
 
 #### Option 3: Ask the Agent
 
 Simply tell Claude Code:
-> Please install Skills from github.com/mebusw/mebusw-marketplace
+> Please install Skills from github.com/mebusw/awesome-jackyshen-skills
 
 
 ### Update Skills
@@ -59,7 +59,7 @@ To update skills to the latest version:
 
 1. Run /plugin in Claude Code
 2. Switch to Marketplaces tab (use arrow keys or Tab)
-3. Select mebusw-marketplace
+3. Select awesome-jackyshen-skills
 4. Choose Update marketplace
 
 You can also Enable auto-update to get the latest versions automatically.

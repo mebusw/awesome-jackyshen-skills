@@ -26,20 +26,20 @@
 
 ### 快速安装（推荐）
 
-`npx skills add mebusw/mebusw-marketplace`
+`npx skills add mebusw/awesome-jackyshen-skills`
 
 ### 注册插件市场
 
 在 Claude Code 中运行：
 
-`/plugin marketplace add mebusw/mebusw-marketplace`
+`/plugin marketplace add mebusw/awesome-jackyshen-skills`
 
 ### 安装技能
 
 #### 方式一：通过浏览界面
 
 1. 选择 Browse and install plugins
-2. 选择 mebusw-marketplace
+2. 选择市场 awesome-jackyshen-skills
 3. 选择要安装的插件
 4. 选择 Install now
 
@@ -47,15 +47,15 @@
 
 ```
 # 安装指定插件
-/plugin install /trainer-design-workshop-outline@awesome-trainer-plugin
-/plugin install /trainer-list-methods@awesome-trainer-plugin
+/plugin install /trainer-design-workshop-outlineawesome-jackyshen-skills
+/plugin install /trainer-list-methodsawesome-jackyshen-skills
 ```
 
 #### 方式三：告诉 Agent
 
 直接告诉 Claude Code：
 
-> 请帮我安装 github.com/mebusw/mebusw-marketplace 中的 Skills
+> 请帮我安装 github.com/mebusw/awesome-jackyshen-skills 中的 Skills
 
 
 ### 更新技能
@@ -63,7 +63,7 @@
 
 1. 在 Claude Code 中运行 /plugin
 2. 切换到 Marketplaces 标签页（使用方向键或 Tab）
-3. 选择 mebusw-marketplace
+3. 选择市场 awesome-jackyshen-skills
 4. 选择 Update marketplace
 
 也可以选择 Enable auto-update 启用自动更新，每次启动时自动获取最新版本。
