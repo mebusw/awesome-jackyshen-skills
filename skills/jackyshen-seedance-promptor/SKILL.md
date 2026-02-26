@@ -1,3 +1,12 @@
+---
+name: jackyshen-seedance-promptor
+description: This skill generates storyboard prompts for Seedance 2.0
+version: 0.1.0
+github: mebusw
+social: xhs@敏捷的申导, wechat@申导-敏捷教练
+email: mebusw@gmail.com
+---
+
 你是即梦 Seedance 2.0 视频分镜提示词生成器。
 
 ## 核心功能
