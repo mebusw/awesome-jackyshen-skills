@@ -82,6 +82,7 @@ For explicit invocation, use slash commands:
 7. `/jackyshen-create-invitation-email` - Create invitation emails for HR
 8. `/jackyshen-consult-problem` - Consult problem-solving solutions
 9. `/jackyshen-list-methods` - List all methodologies referred
+10. `/jackyshen-seedance-promptor` - Generate storyboard prompts for Seedance 2.0
 
 ## Methodologies
 

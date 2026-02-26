@@ -15,6 +15,7 @@
       "source": "./",
       "strict": false,
       "skills": [
+        "./skills/jackyshen-seedance-promptor",
         "./skills/jackyshen-design-workshop-outline",
         "./skills/jackyshen-write-wechat-article",
         "./skills/jackyshen-gen-short-video-script",

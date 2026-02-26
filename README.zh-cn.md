@@ -120,6 +120,8 @@
 7. `/jackyshen-create-invitation-email` - 为HR创建课程邀请通知邮件
 8. `/jackyshen-consult-problem` - 生成顾问式问题解决方案
 9. `/jackyshen-list-methods` - 显示所有方法论
+10. `/jackyshen-seedance-promptor` - 生成即梦 Seedance 2.0 视频分镜提示词
+
 
 ## 方法论
 
