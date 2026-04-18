@@ -7,123 +7,223 @@ social: xhs@敏捷的申导, wechat@申导-敏捷教练
 email: mebusw@gmail.com
 ---
 
-# Recorded Course Script Generator
+# 录播课程脚本生成器（Recorded Course Script Generator）
 
-Generate video course scripts with MECE-structured curriculum, engaging content, and production guidance. Optimized for 2-5 minute micro-lessons with case studies and analogies.
-
-## Process
-
-### 1. Define Course Parameters
-- **Course:** Title, topic, target audience, prerequisites, duration, format
-- **Objectives:** 3-5 measurable outcomes (action verb + skill + context)
-- **Structure:** Modules, lessons per module, lesson duration (5-15 min recommended)
-
-### 2. MECE Curriculum Structure
-Organize into Mutually Exclusive, Collectively Exhaustive modules:
-- Foundation → Core Skills → Application
-- Each module builds on previous ones
-
-### 3. Lesson Structure (5-15 minutes)
-- **Opening (5-10%)**: Hook, outcome, roadmap
-- **Main Content (70-75%)**: Concepts with explanations + examples
-- **Closing (10-15%)**: Summary, practice, transition
-
-### 4. Lesson Script Template (4C Structure)
-
-```markdown
-## [Lesson Title] ([Time])
-
-**Outcome:** [Specific skill learners will gain]
+生成结构清晰（MECE）、内容有吸引力，并包含制作指导的视频课程脚本。针对 2–5 分钟微课优化，强调案例与类比。
 
 ---
 
-### 1. Connect/Hook (10-15s)
-*[Visual: On camera or text overlay]*
-"Welcome back! Today we're diving into [topic]."
-OR "Did you know that [stat]?" OR "Have you ever [question]?"
+## 核心原则（新增）
 
-### 2. Concept ([Time])
-*[Visual: Slides, graphics, or demo]*
-"Let me explain [concept]..."
-- Use analogies: "Think of it like..."
-- Use case studies: "For example, at [company]..."
-- Use concrete examples
+由于本课程为**录播课程（单人学习场景）**，需遵循以下设计约束：
 
-### 3. Collaborate/Practice ([Time])
-*[Visual: Question on screen]*
-"Now, take a moment to think: [reflection question]..."
-*[Pause]*
-"Here's the answer: [concise response]"
+- 不使用小组讨论或多人互动形式  
+- 将“游戏 / 小组讨论 / 练习”转化为：
+  - **单人反思题（Reflection Questions）**
+  - **情境故事（Story-based Simulation）**：通过讲述一个具体场景或模拟过程，让学员产生代入感
+- 强化“心理参与感”，替代“物理互动”
 
-### 4. Consolidate/Close (30-60s)
-*[Visual: On camera, summary slide]*
-"To recap: [key point 1], [key point 2], [key point 3]."
-"Your action step: [specific practice]."
-"Next time, we'll [preview]. See you then!"
+---
+
+## 生成流程（Process）
+
+### 1. 定义课程参数
+- **课程信息：** 标题、主题、目标学员、前置知识、时长、形式
+- **学习目标：** 3-5 个可衡量结果（动词 + 技能 + 场景）
+- **结构设计：** 模块划分、每模块课程数、单课时长（建议 5-15 分钟）
+
+---
+
+### 2. MECE 课程结构设计
+按照“相互独立、完全穷尽”原则组织：
+
+- 基础 → 核心技能 → 应用实践
+- 模块之间逐层递进
+
+---
+
+### 3. 单节课结构（5-15 分钟）
+- **开场（5-10%）：** 吸引注意 + 目标 + 路线
+- **主体（70-75%）：** 概念讲解 + 示例
+- **收尾（10-15%）：** 总结 + 练习 + 过渡
+
+---
+
+### 4. 课程脚本模板（4C 结构）
+
+```markdown
+## [课程标题] ([时长])
+
+**学习成果：** [学员将获得的具体能力]
+
+
+### 1. Connect / Hook（10-15秒）
+*[画面：真人或字幕]*
+"欢迎回来！今天我们讲的是[主题]。"
+或
+"你是否遇到过这样的情况？"
+或
+"有一个真实场景..."
+
+👉 推荐：用**故事开场**代替提问
+
+
+
+### 2. Concept（核心讲解）
+*[画面：PPT / 图示 / Demo]*
+
+"我们先来看一个场景..."
+
+👉 强制要求：
+- 用**类比**（Think of it like…）
+- 用**案例**
+- 或用**连续情境故事**推进
+
+示例：
+"假设你是一个项目经理，今天你遇到了..."
+
+
+
+### 3. Collaborate / Practice（转为单人学习）
+*[画面：问题展示]*
+
+❌ 不再使用：
+- 小组讨论
+- 互动游戏
+
+✅ 改为两种形式：
+
+**方式一：反思题**
+"现在请你停下来想一想：……"
+
+**方式二：故事沉浸**
+"接下来我带你走一遍这个场景……你会怎么做？"
+
+👉 然后给出：
+- 标准思路
+- 或专家解法
+
+
+
+### 4. Consolidate / Close（30-60秒）
+*[画面：总结页]*
+
+"今天我们讲了三点：……"
+
+"你的行动建议是：……"
+
+"下一节，我们会讲……"
 ```
 
-### 5. Production Guidelines
+---
 
-**Visual:**
-- Slides: Minimal text, clear graphics, consistent branding
-- Camera: Eye-level, direct address, professional setting
-- Overlays: Key points, definitions, examples
+### 5. 制作指导（Production Guidelines）
 
-**Audio:**
-- Voice: Clear, energetic, conversational
-- Pace: Moderate with pauses for emphasis
-- Music: Optional, subtle background
+#### 视觉（Visual）
 
-**Delivery:**
-- Eye contact with camera
-- Natural gestures
-- Enthusiastic tone
+* PPT：少字 + 强图形
+* 镜头：平视 + 专业环境
+* 强调字幕与关键点
 
-## Lesson Types
+#### 音频（Audio）
 
-| Type | Description |
-|------|-------------|
-| Lecture | Direct instruction, concepts, examples |
-| Demo | Step-by-step walkthrough, screen recording |
-| Interview | Guest Q&A, multiple perspectives |
-| Case Study | Real-world problem-solution examples |
-| Hybrid | Mix of above for engagement |
+* 清晰、自然、有节奏
+* 适当停顿
+* 可选轻背景音乐
 
-## Best Practices Checklist
+#### 表达（Delivery）
 
-**Structure:** Hook, clear outcome, logical flow, examples, actionable practice
+* 看镜头
+* 自然手势
+* 有感染力
 
-**Content:** Conversational tone, concrete over abstract, stories/examples, visual interest
+---
 
-**Production:** Good lighting/audio, professional appearance, consistent slides, text overlays
+## 课程类型（Lesson Types）
 
-**Engagement:** Enthusiasm, eye contact, natural gestures, learner connection
+| 类型 | 描述      |
+| -- | ------- |
+| 讲授 | 概念 + 示例 |
+| 演示 | 操作步骤    |
+| 访谈 | 多视角     |
+| 案例 | 问题-解决   |
+| 混合 | 提升参与感   |
+
+👉 注意：优先使用**案例 + 故事型讲解**
+
+---
+
+## 最佳实践清单（Checklist）
+
+**结构：**
+
+* 清晰开场
+* 明确目标
+* 逻辑递进
+* 有练习（单人）
+* 可执行
+
+**内容：**
+
+* 口语化表达
+* 多用案例和故事
+* 少抽象概念
+
+**制作：**
+
+* 清晰音画
+* 统一风格
+* 重点突出
+
+**参与感：**
+
+* 用问题引导思考
+* 用故事增强沉浸
+* 用情境替代互动
+
+---
 
 ## Integration
 
-Reference `jackyshen-list-methods` skill for:
-- MECE curriculum structure
-- Pyramid Principle for organization
-- VAK learning styles in visual/auditory design
-- ORID for reflective questions
+参考 `jackyshen-list-methods`：
+
+* MECE
+* 金字塔原理
+* VAK学习风格
+* ORID提问法（用于反思题）
 
 ---
 
-## Behavior & Rules
+## 行为与规则（Behavior & Rules）
 
-### 1. Requirements Analysis & Outline
-- Ask questions to understand core problem and desired outcomes
-- Use 4C structure for clear, logical course outline
-- Keep language simple, professional, and pain-point focused
+### 1. 需求分析与大纲设计
 
-### 2. Micro-Lesson Script (2-5 minutes)
-- Follow 4C structure: Connect → Concept → Collaborate → Consolidate
-- Use case studies and analogies (learner preference)
-- Keep language concise, vivid, spoken-style
-- Provide visual/animation suggestions with timing
-- Deliver complete integrated script
+* 主动提问，理解目标与痛点
+* 用 4C 构建结构
+* 简洁、专业、聚焦问题
 
-### 3. Style Guidelines
-- **Tone:** Professional yet approachable, like an experienced trainer
-- **Approach:** Guide through questions and interaction
-- **Focus:** Result-oriented, emphasizing practical changes
+---
+
+### 2. 微课脚本生成（2-5分钟）
+
+* 严格使用 4C：Connect → Concept → Practice → Consolidate
+* 强制使用：
+
+  * 案例
+  * 类比
+  * 或故事
+* 所有互动转为：
+
+  * 单人思考
+  * 或故事模拟
+* 输出完整脚本 + 画面建议
+
+---
+
+### 3. 风格要求
+
+* **语气：** 专业但亲切（像资深讲师）
+* **方式：** 用问题引导
+* **重点：** 可落地、可行动
+
+
